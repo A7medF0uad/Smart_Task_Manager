@@ -1,7 +1,7 @@
 // ---------------------------------------------------------
 // This class acts as a Node for a Singly Linked List.
 // ---------------------------------------------------------
-public class Task {
+class Task {
 
     String taskName; // The data payload
     Task next = null; // Pointer to the next node in the chain
@@ -16,7 +16,7 @@ public class Task {
 // This class implements a Queue (FIFO - First In, First Out)
 // using a Singly Linked List.
 // ---------------------------------------------------------
-class Regular_Task {
+public class Regular_Task {
 
     // 'front' points to the first node (the next one to be processed)
     private Task front;
