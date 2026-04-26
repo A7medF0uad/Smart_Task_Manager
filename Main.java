@@ -1,4 +1,3 @@
-
 import java.util.Scanner; // Imports the Scanner class to read user input from the console
 
 public class Main {

@@ -3,7 +3,6 @@
 // ---------------------------------------------------------
 class Task {
 
-<<<<<<< HEAD
     String taskName; // The data payload
     Task next = null; // Pointer to the next node in the chain
 
@@ -92,7 +91,7 @@ class Regular_Task {
         }
     }
 }
-=======
+
     String taskName; // The data payload
     Task next = null; // Pointer to the next node in the chain
 
