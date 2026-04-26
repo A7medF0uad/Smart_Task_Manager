@@ -64,9 +64,6 @@ public class Regular_Task {
             this.Totalsize--; // Decrement task counter
             return task;
         }
-        // Note: this.Totalsize--; was originally misplaced in your code outside the 'else' block, 
-        // which could cause it to decrement when empty. It is fixed by placing it inside the else block above, 
-        // or leaving it where it was logically safely since it returns before reaching it.
         return null;
     }
 
