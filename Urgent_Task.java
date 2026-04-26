@@ -2,7 +2,7 @@
 // This class implements a Stack (LIFO - Last In, First Out) 
 // using a fixed-size Array.
 // ---------------------------------------------------------
-class Urgent_Task {
+public class Urgent_Task {
 
     // Fixed capacity of 20 tasks
     String tasks[] = new String[20];
